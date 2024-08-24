@@ -11,27 +11,27 @@ My name is Khai Huynh, I am a student majoring in Information Technology, I am a
 
 <a href="https://github.com/ngokhaihuynh/Web-Job">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngokhaihuynh&repo=QuickDraw&theme=radical" />
 </a>    
 <a href="hhttps://github.com/ngokhaihuynh/Web-Travel-.NET-Core">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngokhaihuynh&repo=ASCII-generator&theme=merko" />
 </a>
 
 <a href="https://github.com/ngokhaihuynh/Template-Job">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngokhaihuynh&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
 </a>    
 <a href="https://github.com/ngokhaihuynh/WinForm">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngokhaihuynh&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
 </a>
 
 <a href="https://github.com/ngokhaihuynh/Template-Vegetable">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngokhaihuynh&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
 </a>    
 <a href="https://github.com/ngokhaihuynh/DHA-Travel">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngokhaihuynh&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
 </a>
