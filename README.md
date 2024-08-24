@@ -1,37 +1,34 @@
-
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Khai Huynh, I am a student majoring in Information Technology, I am a .NET programmer. I am passionate about technology and am striving to become a professional developer in this field.<br>
+
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/huynhngo/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ngokhaihuynh) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/@NgoHuynh980)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/huynhngo/) 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ngokhaihuynh) 
+[![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/@NgoHuynh980)
 
-
-
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngokhaihuynh&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Khai's github stats](https://github-readme-stats.vercel.app/api?username=ngokhaihuynh&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/ngokhaihuynh/Web-Job">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngokhaihuynh&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=Web-Job&theme=radical" />
 </a>    
-<a href="hhttps://github.com/ngokhaihuynh/Web-Travel-.NET-Core">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngokhaihuynh&repo=ASCII-generator&theme=merko" />
+
+<a href="https://github.com/ngokhaihuynh/Web-Travel-.NET-Core">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=Web-Travel-.NET-Core&theme=merko" />
 </a>
 
 <a href="https://github.com/ngokhaihuynh/Template-Job">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngokhaihuynh&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=Template-Job&theme=gruvbox" />
 </a>    
+
 <a href="https://github.com/ngokhaihuynh/WinForm">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngokhaihuynh&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=WinForm&theme=dark" />
 </a>
 
 <a href="https://github.com/ngokhaihuynh/Template-Vegetable">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngokhaihuynh&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=Template-Vegetable&theme=onedark" />
 </a>    
+
 <a href="https://github.com/ngokhaihuynh/DHA-Travel">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngokhaihuynh&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=DHA-Travel&theme=cobalt" />
 </a>
