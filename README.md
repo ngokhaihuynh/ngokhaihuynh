@@ -21,10 +21,6 @@ My name is Khai Huynh, I am a student majoring in Information Technology, I am a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=HouseholdBusinessManager&theme=gruvbox" />
 </a>    
 
-<a href="https://github.com/ngokhaihuynh/WinForm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=WinForm&theme=dark" />
-</a>
-
 <a href="https://github.com/ngokhaihuynh/ECommerceMVC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=ECommerceMVC&theme=onedark" />
 </a>    
