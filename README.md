@@ -18,7 +18,7 @@ My name is Khai Huynh, I am a student majoring in Information Technology, I am a
 </a>
 
 <a href="https://github.com/ngokhaihuynh/QuanLyHoKinhDoanh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=QuanLyHoKinhDoanh&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=HouseholdBusinessManager&theme=gruvbox" />
 </a>    
 
 <a href="https://github.com/ngokhaihuynh/WinForm">
