@@ -17,7 +17,7 @@ My name is Khai Huynh, I am a student majoring in Information Technology, I am a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=Web-Travel-.NET-Core&theme=merko" />
 </a>
 
-<a href="https://github.com/ngokhaihuynh/QuanLyHoKinhDoanh">
+<a href="https://github.com/ngokhaihuynh/HouseholdBusinessManager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngokhaihuynh&repo=HouseholdBusinessManager&theme=gruvbox" />
 </a>    
 
