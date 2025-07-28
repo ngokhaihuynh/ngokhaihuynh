@@ -6,7 +6,8 @@ My name is Khai Huynh, I am a student majoring in Information Technology, I am a
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/huynhngo/) 
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/ngokhaihuynh) 
 [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/@NgoHuynh980)
-[![Website](https://img.icons8.com/ios-filled/50/domain.png)](https://huynhk.io.vn)
+[Truy cập Website của tôi](https://huynhk.io.vn)
+
 
 
 ![Khai's github stats](https://github-readme-stats.vercel.app/api?username=ngokhaihuynh&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
